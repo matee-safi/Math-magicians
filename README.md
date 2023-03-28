@@ -17,7 +17,7 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -37,9 +37,9 @@
 > 
 
 <details>
-  <summary>HTML</summary>
+  <summary>React</summary>
   <ul>
-    <li><a href="">Webpack</a></li>
+    <li><a href=""></a></li>
   </ul>
 </details>
 
@@ -61,9 +61,7 @@
 
 ### Key Features <a name="key-features"></a>
 
- - You can like a meal by clicking on the like button
- - You can comment on the meal
- - You can get instruction about creating a mean by clicking on the popup button
+ - You get a react image that spins infinitely 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,8 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://matee-safi.github.io/2-Capstone/dist/">View page</a> <br>
-<a href="https://www.loom.com/share/a9631b82c4e74ee0aa35387aa8bb9110">View presentation</a>
+> Not availible yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,14 +83,14 @@
 In order to run this project you need:
 
 - A browser
-- node js
-- jest
+- node.js
+- react.js
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<code>git clone https://github.com/matee-safi/2-Capstone.git</code>
+<code>git clone https://github.com/matee-safi/Math-magicians.git</code>
 
 ### Install
 
@@ -105,7 +102,7 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<code>npm run start</code>
+<code>npm start</code>
 
 ### Run tests
 
@@ -121,9 +118,7 @@ Get a hosting website and give all of the github files
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+## 👥 Author <a name="authors"></a>
 
 👤 Matee Safi
 
@@ -131,22 +126,13 @@ Get a hosting website and give all of the github files
 - Twitter: [@twitterhandle](https://twitter.com/matee_safi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/matee-safi-755421243/)
 
-👤 Therese Tuyisabe
-
-- GitHub: [@githubhandle](https://github.com/theresetuyi)
-- Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Search will be available soon
-- Search by name
-- Search by ingredients
-- Ingredients will also be shown 
+> No feature available in the near future 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +140,7 @@ Get a hosting website and give all of the github files
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-You can contribute to this project by writing an issue <a href="https://github.com/matee-safi/Leaderboard-API/issues/new/choose" >here</a>
+You can contribute to this project by writing an issue <a href="https://github.com/matee-safi/Math-magicians/issues/new" >here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +156,7 @@ If you like this project please leave a ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<a href="https://www.flaticon.com/free-icons/restaurant" title="restaurant icons">Restaurant icons created by Freepik - Flaticon</a><br>
-<a href="https://www.flaticon.com/free-icons/heart" title="heart icons">Heart icons created by Freepik - Flaticon</a><br>
-<a href="https://www.flaticon.com/free-icons/delete" title="delete icons">Delete icons created by Pixel perfect - Flaticon</a>
+Many Thanks to microverse for making this possible
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
