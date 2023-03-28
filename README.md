@@ -132,7 +132,7 @@ Get a hosting website and give all of the github files
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> No feature available in the near future 
+- A calculator that performs all mathematical operations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
