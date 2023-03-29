@@ -61,7 +61,7 @@
 
 ### Key Features <a name="key-features"></a>
 
- - You get a react image that spins infinitely 
+ - A simple calculator that doesn't work
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ Get a hosting website and give all of the github files
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- A calculator that performs all mathematical operations
+- Soon we will add all the functionalities for the calculator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
