@@ -15,7 +15,6 @@ const Calculator = () => {
       next: output.next,
       operation: output.operation,
     });
-    console.log(inputObject);
   };
   return (
     <div className="calculator">
