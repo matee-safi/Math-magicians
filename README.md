@@ -61,7 +61,7 @@
 
 ### Key Features <a name="key-features"></a>
 
- - A simple calculator that doesn't work
+ - A simple calculator that does simple math
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +132,7 @@ Get a hosting website and give all of the github files
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Soon we will add all the functionalities for the calculator
+- Soon we will add a random quote generator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
