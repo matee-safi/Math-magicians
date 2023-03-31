@@ -65,6 +65,11 @@ button {
   flex-direction: column;
 }
 
+.silver div {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
 .silver button {
   height: 4em;
   width: 7em;
