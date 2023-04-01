@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 export default function Quote() {
   const [data, setData] = useState([]);
@@ -28,11 +28,18 @@ export default function Quote() {
 
   if (error) return <div>Unable to fetch quotes!</div>;
   if (isPending) return <div>Loading...</div>;
-
   return (
-    <div className="quotes">
-      <p>{data[0].quote}</p>
-      <span>{data[0].author}</span>
-    </div>
+    <>
+      {data.map((item) => (
+        <div key={item.author} className="quotes">
+          <p>{item.quote}</p>
+          <span>
+            &quot;
+            {item.author}
+            &quot;
+          </span>
+        </div>
+      ))}
+    </>
   );
 }
