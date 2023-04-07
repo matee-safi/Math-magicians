@@ -26,8 +26,8 @@ export default function Quote() {
     fetchData();
   }, [setData]);
 
-  if (error) return <div>Unable to fetch quotes!</div>;
-  if (isPending) return <div>Loading...</div>;
+  if (error) return <div className="quotes">Unable to fetch quotes!</div>;
+  if (isPending) return <div className="quotes">Loading...</div>;
   return (
     <>
       {data.map((item) => (

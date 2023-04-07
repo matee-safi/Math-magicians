@@ -31,6 +31,40 @@ code {
     monospace;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 8%;
+  align-items: center;
+}
+
+.logo-container {
+  color: orange;
+  font-size: large;
+}
+
+.nav-links {
+  display: flex;
+  gap: 15px;
+  font-size: large;
+  text-decoration: none;
+}
+
+.nav-links p {
+  text-decoration: none;
+  color: aqua;
+}
+
+.home {
+  margin: 10%;
+}
+
+.home h2 {
+  font-size: 3em;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+
 .calculator {
   width: fit-content;
 }
@@ -100,13 +134,28 @@ button:active {
 }
 
 .quotes {
-  width: 400px;
   display: flex;
+  align-items: center;
   flex-direction: column;
+  font-size: larger;
+  margin: 20% 10%;
+  font-weight: 600;
 }
 
 .quotes span {
   display: flex;
   align-self: flex-end;
-  margin-right: 20px;
+  margin-right: 10%;
+}
+
+.calc-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10%;
+}
+
+.calc-heading h2 {
+  font-size: 3em;
+  font-weight: 200;
+  margin-bottom: 30px;
 }
