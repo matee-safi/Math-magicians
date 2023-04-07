@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Not availible yet
+<p>You can view the page live by clicking <a href="https://math-magicians-matee-safi.onrender.com/">this link</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
